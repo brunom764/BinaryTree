@@ -37,35 +37,57 @@ PL(previous level) - Where PL represents the level at which the data V was befor
 ### Case: 1
 #### Input
 ADD 165544
+
 ADD 11623
+
 SCH 165544
+
 SCH 165544
+
 SCH 11623
 
 #### Output
 0
+
 1
+
 0
+
 0
+
 1
 
 ### Case: 2
 #### Input
 ADD 100
+
 ADD 50
+
 ADD 25
+
 ADD 10
+
 SCH 10
+
 SCH 55
+
 SCH 50
+
 SCH 50
 
 #### Output
 0
+
 1
+
 2
+
 3
+
 3
+
 -1
+
 2
+
 0
