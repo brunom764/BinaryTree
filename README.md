@@ -27,11 +27,12 @@ Várias linhas com as seguintes operações:
 Para a operação de SCH:
 
 #### PL(previous level) - Onde PL representa em que nível o dado V estava antes de ir para o topo ou -1 caso o valor não exista na estrutura.
-Examples
 
-Case: 1
+## Examples
 
-Input
+### Case: 1
+
+#### Input
 
 ADD 165544
 ADD 11623
@@ -39,7 +40,7 @@ SCH 165544
 SCH 165544
 SCH 11623
 
-Output
+#### Output
 
 0
 1
@@ -47,9 +48,9 @@ Output
 0
 1
 
-Case: 2
+### Case: 2
 
-Input
+#### Input
 
 ADD 100
 ADD 50
@@ -60,7 +61,7 @@ SCH 55
 SCH 50
 SCH 50
 
-Output
+#### Output
 
 0
 1
