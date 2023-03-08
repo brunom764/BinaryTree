@@ -1,5 +1,5 @@
 # BinaryTree
-Implementação em python de uma arvore binaria de busca, a qual quando busca um item, bota ele na raiz da arvore.
+Implementação de uma arvore binaria de busca, a qual quando busca um item, rotaciona ele até a raiz da arvore utilizando python.
 
 
 ## Problem Statement
